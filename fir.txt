@@ -1,0 +1,4 @@
+213|Shree|Prakash|23/4/2022|8:00 PM|Theft|solved
+42|Anand|Raj|12/3/2022|1:20pm|theft|pending
+112|harry|ariya|12/3/2010|4:30am|violence|
+134|bhavana|veer|09/02/2023|1:00pm|phone snatching|
